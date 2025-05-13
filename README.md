@@ -6,7 +6,7 @@ Created a Dashboard using Power Bi By Using Dataset of Ola for Company to make d
 ## SQL
 - <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/OLA.sql"> Ola_Sql </a>
 
-## SQL Qusetions:
+## SQL Qusetions
  1. Retrieve all successful bookings:
  2. Find the average ride distance for each vehicle type:
  3. Get the total number of cancelled rides by customers:
@@ -17,3 +17,10 @@ Created a Dashboard using Power Bi By Using Dataset of Ola for Company to make d
  8. Find the average customer rating per vehicle type:
  9. Calculate the total booking value of rides completed successfully:
  10. List all incomplete rides along with the reason:
+
+##  Power BI Dashboards
+- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Overall.png"> Overall </a>
+- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Vehical_type.png"> Vehical_type </a>
+- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Revenue.png"> Revenue </a>
+- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Cancellation.png"> Cancellation </a>
+- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Ratings.png"> Ratings </a>
