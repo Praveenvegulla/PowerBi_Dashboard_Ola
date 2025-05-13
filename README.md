@@ -39,3 +39,9 @@ Created a Dashboard using Power Bi By Using Dataset of Ola for Company to make d
  8. Ride Distance Distribution Per Day
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
+
+## Process 
+- Verify Data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, date format and values used.
+- Completed SQL queries based on the requirment in the questions.
+- Using ###Power Bi for the creation aof dashboards based on the questions and giving them a dashboard where they can make data-driven decisions.
