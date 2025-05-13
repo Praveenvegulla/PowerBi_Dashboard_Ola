@@ -18,12 +18,6 @@ Created a Dashboard using Power Bi By Using Dataset of Ola for Company to make d
  9. Calculate the total booking value of rides completed successfully:
  10. List all incomplete rides along with the reason:
 
-##  Power BI Dashboards
-- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Overall.png"> Overall </a>
-- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Vehical_type.png"> Vehical_type </a>
-- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Revenue.png"> Revenue </a>
-- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Cancellation.png"> Cancellation </a>
-- <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Ratings.png"> Ratings </a>
 
 ## Dahboards
 ![Overall](https://github.com/user-attachments/assets/5f737577-80b4-44b1-a819-f73b9a281942)
