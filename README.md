@@ -25,6 +25,15 @@ Created a Dashboard using Power Bi By Using Dataset of Ola for Company to make d
 - <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Cancellation.png"> Cancellation </a>
 - <a href="https://github.com/Praveenvegulla/PowerBi_Dashboard_Ola/blob/main/Ratings.png"> Ratings </a>
 
+## Dahboards
+![Overall](https://github.com/user-attachments/assets/5f737577-80b4-44b1-a819-f73b9a281942)
+![Vehical_type](https://github.com/user-attachments/assets/9798763f-e560-46d7-9a6b-5e325ec03c42)
+![Revenue](https://github.com/user-attachments/assets/1bbe7f11-cd43-47d3-a95e-8d011a51ee39)
+![Cancellation](https://github.com/user-attachments/assets/bc855554-44af-41ee-9665-0a17d4fa5404)
+![Ratings](https://github.com/user-attachments/assets/aa3f1204-fdb4-476b-b08b-03654d1cc2db)
+
+
+
 ##  Power BI Questions:
  1. Ride Volume Over Time
  2. Booking Status Breakdown
